@@ -11,6 +11,8 @@ public class repClass {
 
 
         System.out.println("Changes Andr1");
+        System.out.println("Changes And2");
+        System.out.println("Changes And3");
 
 
     }
